@@ -1,9 +1,10 @@
+import React from "react";
+
 import BarChart from "components/BarChart";
 import Datatable from "components/Datatable";
 import DonutChart from "components/DonutChart";
 import Footer from "components/Footer";
 import NavBar from "components/NavBar";
-import React from "react";
 
 function App() {
   return (
